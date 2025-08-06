@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TradyFrontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.4.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Trady_Front
+Front sous Angular pour le projet Trady
+>>>>>>> e267bb885f50b179edb51f6517388d9f7224f061
